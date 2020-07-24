@@ -7,6 +7,7 @@
 - show how each project will look on iphone and ipad and desktop 
 
 inspiration: https://ulya.dev/
+https://jamesjacobthomas.com/ 
 
       work
     |       |
