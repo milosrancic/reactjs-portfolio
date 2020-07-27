@@ -9,6 +9,7 @@
 inspiration: https://ulya.dev/
 https://jamesjacobthomas.com/ 
 https://codewithghazi.com/
+https://saikrishna.dev 
 
       work
     |       |
