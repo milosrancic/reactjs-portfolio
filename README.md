@@ -1,5 +1,5 @@
 - hamburger menu
-- home about me work blog
+- home about me work 
 - contact form goes on bottom of every page
 - explanation for every project, with features written 
 - live button and github button
