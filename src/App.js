@@ -12,7 +12,7 @@ import Blog from './Blog';
 function App() {
   return (
     <div className="App">
-      <Router>
+      {/* <Router>
         <ul>
           <li>
             <Link to="/blog">Blog</Link>
@@ -24,11 +24,10 @@ function App() {
             <Blog />
           </Route>
         </Switch>
-      </Router>
-      home
-      about 
-      work
-      contact
+      </Router> */}
+      <div className="navbar">
+        navigation
+      </div>
     </div>
   );
 }
