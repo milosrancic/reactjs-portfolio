@@ -1,13 +1,8 @@
-import React from 'react';
-import './App.css';
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link
-} from "react-router-dom";
+import React from "react";
+import "./App.scss";
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
-import Blog from './Blog';
+import Blog from "./Blog";
 
 function App() {
   return (
@@ -25,9 +20,7 @@ function App() {
           </Route>
         </Switch>
       </Router> */}
-      <div className="navbar">
-        navigation
-      </div>
+      <div className="navbar">navigation</div>
     </div>
   );
 }
