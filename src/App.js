@@ -5,6 +5,9 @@ import Nav from "react-bootstrap/Nav";
 
 import Blog from "./Blog";
 
+import ProjectList from "./ProjectList";
+import Project from "./Project";
+
 function App() {
   return (
     <div className="App">
@@ -21,7 +24,10 @@ function App() {
           </Route>
         </Switch>
       </Router> */}
-      <Nav className="justify-content-center" activeKey="/home">
+
+      {/* Ovo ide u Nav */}
+      {/* activeKey="/home" */}
+      {/* <Nav className="justify-content-center">
         <Nav.Item>
           <Nav.Link href="/home" className="">
             Home?
@@ -36,7 +42,8 @@ function App() {
         <Nav.Item>
           <Nav.Link eventKey="/blog">Blog</Nav.Link>
         </Nav.Item>
-      </Nav>
+      </Nav> */}
+      <ProjectList />
     </div>
   );
 }
